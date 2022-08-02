@@ -13,6 +13,7 @@
     "forceConsistentCasingInFileNames": true,
     "noEmit": true,
     "esModuleInterop": true,
+    "isolatedModules": false,
     "module": "esnext",
     "moduleResolution": "node",
     "resolveJsonModule": true,
